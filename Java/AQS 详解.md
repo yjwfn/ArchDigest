@@ -1,7 +1,4 @@
-`AQS`是`AbstractQueuedSynchronizer`的简称。
-
-
- 
+`AQS`是`AbstractQueuedSynchronizer`的简称。 
 
 ### AbstractQueuedSynchronizer 同步状态
 
